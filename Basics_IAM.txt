@@ -1,2 +1,3 @@
 IAM --> Identity and access management, Global service**
-
+User can belong to multiple group
+Polices define permissions
