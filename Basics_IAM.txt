@@ -1,3 +1,8 @@
 IAM --> Identity and access management, Global service**
 User can belong to multiple group
 Polices define permissions
+Principle : root user
+entity : IAM user, IAM role
+identity: entity + IAM group
+resources: identtity + (police+provider+profile....etc)
+
